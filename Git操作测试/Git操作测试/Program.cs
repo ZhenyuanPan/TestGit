@@ -6,7 +6,7 @@ namespace Git操作测试
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! second");
         }
     }
 }
